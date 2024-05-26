@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2024 Rafa (https://codepen.io/RAFA3L/pen/RwOMEEa)
+Copyright (c) 2024 ZHVIP UNKNOWN.CODER
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,24 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+KURDISH . VERSION                                                                                                  مۆڵەتی MIT (MIT)
+
+مافی لەبەرگرتنەوە (c) 2024 ZHVIP UNKNOWN. کۆدەر
+
+ڕێگەپێدان بە خۆڕایی دەدرێت بە هەر کەسێک کە کۆپیەک وەربگرێت
+بۆ ئەم بەرنامە و دۆکیومێنتە پەیوەندیدارە (The Software) ، بۆ مامەڵەکردن
+بەبێ سنووردارکردنی مافەکان
+بۆ بەکارهێنان، کۆپی، گۆڕانکاری، تێکەڵکردن، بڵاوکردنەوە، بڵاوکردنەوە، ژێردەستە، و/یان فرۆشتن
+بەکارهێنانی نەرمەکاڵا و ڕێگەدان بەو کەسانەی کە بەرنامەکەیان هەیە
+بۆ ئەنجامدانی ئەم کارە، بەپێی ئەم مەرجانەی خوارەوە:
+
+ئاگادارکردنەوەی مافی لەبەرگرتنەوەی سەرەوە و ئەم ئاگادارکردنەوەی مۆڵەتە دەخرێتە نێو هەموو
+به شێک یان به شێکی زۆر له پرۆگرامه کان
+
+نەرمەکاڵاکە دابین دەکرێت "وەک ئەوەی هەیە"، بەبێ هیچ گەرەنتییەک، دەربڕین یان
+بە مانای ئەوە دێت، بەڵام سنووردار نییە بە گەرەنتییەکانی بازرگانی.
+بۆ مەبەستێکی تایبەت و بێ بەرامبەر به هیچ شێوه یه ک ئه و
+نووسەر یان خاوەنی مافی لەبەرگرتنەوە بەرپرسیارن لە هەر داواکارییەک، زیان یان هەر سکاڵایەکی تر
+بەرپرسیارێتی: جا لە کردارێکی گرێبەستدا بێت یان بە پێچەوانەوە، لە
+لە دەرەوە یان لە پەیوەندی لەگەڵ بەرنامە یان بەکارهێنانی تر لە
+بەرنامە.
